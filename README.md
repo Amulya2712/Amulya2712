@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #2575fc;">Aspiring Software Engineer | Web Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="500" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" alt="Coding Girl Gif">
 </p>
 
 ---
