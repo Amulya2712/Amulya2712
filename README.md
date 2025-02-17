@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #2575fc;">Aspiring Software Engineer | Web Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding Gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Gif">
 </p>
 
 ---
@@ -56,8 +56,6 @@
 - 📅 **[Contest Tracker](https://github.com/Amulya2712/Contest_Tracker)**  
   - Tracks and organizes upcoming contests from platforms like **Codeforces, CodeChef, AtCoder, and LeetCode**  
   - Developed using **HTML, CSS, JavaScript, and APIs**  
-
----
 
 ---
 
