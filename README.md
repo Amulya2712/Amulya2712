@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a **Contest Tracker Website**  
 - 🌱 I’m learning **React, Firebase, and Backend Development**  
 - 💬 Ask me about **C++, HTML, CSS, JavaScript, Web Development**  
-- 📫 Reach me at **[duggirala21ug@cse.nits.ac.in](mailto:duggirala21ug@cse.nits.ac.in)**  
+- 📫 Reach me at **[amulyaduggirala15@gmail.com](amulyaduggirala15@gmail.com)**  
 
 ---
 
