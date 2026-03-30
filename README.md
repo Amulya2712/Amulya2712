@@ -8,9 +8,9 @@
 
 ---
 
-- 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering** at **NIT Silchar**  
+- 🎓 I’m a recent graduate in **Computer Science & Engineering** at **NIT Silchar**  
 - 💻 I have experience in **Web Development, APIs, and Competitive Programming**  
-- 🔭 I’m currently working on a **Contest Tracker Website**  
+- 🔭 I’m currently working on a **Expense Tracker Website**  
 - 🌱 I’m learning **React, Firebase, and Backend Development**  
 - 💬 Ask me about **C++, HTML, CSS, JavaScript, Web Development**  
 - 📫 Reach me at **[amulyaduggirala15@gmail.com](amulyaduggirala15@gmail.com)**  
